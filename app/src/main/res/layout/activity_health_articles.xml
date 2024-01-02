@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DoctorDetailsActivity"
+    tools:context=".HealthArticlesActivity"
     android:background="@drawable/back3">
 
     <TextView
@@ -25,7 +25,7 @@
         android:id="@+id/textViewHADTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Default Text"
+        android:text="Health Articles"
         android:textColor="@color/colorWhite"
         android:textSize="24sp"
         android:textStyle="bold"
